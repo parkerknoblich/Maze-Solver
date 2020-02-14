@@ -1,4 +1,4 @@
-# CSE 373 HW7
+# CSE 373: Data Structures and Algorithms, HW7
 In this homework, you will implement Kruskal's algorithm to generate mazes and Dijkstra's algorithm to solve them.
 
 Part 1: Try running the maze generator
