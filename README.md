@@ -1,19 +1,6 @@
 # CSE 373 HW7
 In this homework, you will implement Kruskal's algorithm to generate mazes and Dijkstra's algorithm to solve them.
 
-You will use these files from prior assignments:
-   - src/main/java/datastructures/concrete/dictionaries/ChainedHashDictionary.java
-   - src/main/java/datastructures/concrete/dictionaries/ArrayDictionary.java
-   - src/main/java/datastructures/concrete/ArrayHeap.java
-   - src/main/java/datastructures/concrete/ChainedHashSet.java
-   - src/main/java/datastructures/concrete/DoubleLinkedList.java
-   - src/main/java/misc/Sorter.java
-   
-You will be modifying the following files:
-   - src/main/java/datastructures/concrete/ArrayDisjointSet.java
-   - src/main/java/datastructures/concrete/Graph.java
-   - src/main/java/mazes/generators/maze/KruskalMazeCarver.java
-
 Part 1: Try running the maze generator
 Task: make sure you can run MainWindow.java
    - Navigate to the mazes.gui package and run MainWindow.java. This will launch a program that will (eventually) generate and solve          mazes.
